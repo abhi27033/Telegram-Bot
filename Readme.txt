@@ -1,0 +1,1 @@
+Study Mate Telegram Bot integrated with AI for general queries as well as text to handwritten text and vice versa.
